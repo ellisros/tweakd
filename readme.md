@@ -1,3 +1,4 @@
+
 # tweakd 📲
 ### apps, but better. ✨
 
@@ -29,3 +30,30 @@ from customised experiences to extra features, tweakd brings a curated collectio
 | 🎨 enhanced experiences | extra features and modifications |
 | 🗂️ organised listings | app icons, descriptions, and version details |
 | 🔄 version history | previous releases where available |
+
+## 🚀・getting started
+
+1. 📋 copy the repository's source url.
+2. 📲 open a compatible ios sideloading client.
+3. ➕ add tweakd using its source url.
+4. ✨ browse the available apps and install compatible releases.
+
+> 💡 app availability depends on the source, signing method, and ios compatibility.
+
+## ⚠️・disclaimer
+
+tweakd is an independent project and is not affiliated with apple or the developers of the applications listed.
+
+all app names, trademarks, and logos belong to their respective owners. please respect original developers' rights, applicable laws, and relevant terms of service.
+
+## 💜・credits
+
+a big thank you to the original developers, tweak creators, and the ios sideloading community for making app customisation possible.
+
+---
+
+<p align="center">
+  made with 💜 for the ios community
+  <br><br>
+  <strong>tweakd</strong> · apps, but better.
+</p>
